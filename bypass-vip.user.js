@@ -93,7 +93,7 @@
 // @match         *://tonordersitye.com/*
 // @match         *://vip-linknetwork.com/*
 // @match         *://birdbiss.com/*
-// @match         *://loot-labs.com/*
+// @match         *://loot-labs.com/https://ads.luarmor.net/get_key?for=Native_Main_Linkvertise-bYkgrQsRymol
 // @match         *://lootlabs.com/*
 // @match         *://link-hub.net/*
 // @match         *://locconnect.com/*
